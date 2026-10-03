@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.pytest_cache/
+.coverage
+htmlcov/
+.cache
+
+# Node / JS
+node_modules/
+dist/
+.env.local
+
+# DSuite agent internal
+.agent/
+.agent_ipc/
+.agent_signals/
+.agent_history/
+*.log
